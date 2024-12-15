@@ -1,1 +1,1 @@
-# Mini-project
+The project is a Hotel Management System that leverages a LAMP (Linux, Apache, MySQL, PHP) stack for full-stack web development. The core components of the project include a MySQL database for persistent data storage and PHP scripts to handle server-side logic, including database interactions.# Mini-project

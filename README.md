@@ -3,3 +3,7 @@ The project is a Hotel Management System that leverages a LAMP (Linux, Apache, M
 ![Sunrise hotel](https://github.com/user-attachments/assets/26d1e133-e519-4d35-96eb-d5004f3485c4)
 
 ![Sunrise Booking](https://github.com/user-attachments/assets/42f31869-9416-407a-a356-482b4d0325d3)
+
+![Uploading Screenshot 2025-01-02 152243.png…]()
+
+![Screenshot 2025-01-02 152410](https://github.com/user-attachments/assets/afa8ca93-d8e5-4eb5-b8ca-dba3582a2d71)
